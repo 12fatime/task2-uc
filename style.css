@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.one{
+    width: 100%;
+    height: 100px;
+    background-color: blue;
+}
+.one h1{
+    padding: 20px;
+    color: azure;
+}
+.one p{
+    margin-left: 20px;
+    color: azure;
+}
+.two{
+    width: 100%;
+    height: 250px;
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.two div{
+    width: 650px;
+    height: 200px;
+    background-color: rgb(81, 216, 81);
+    border: 3px solid green;
+    
+}
+.two p{
+    font-size: 15px;
+    color:black;
+    font-weight: bold;
+    width: 550px;
+    padding: 20px;
+}
+.third{
+    width: 100%;
+    height: 250px;
+    background-color:aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.third div{
+    width: 400px;
+    height: 150px;
+    background-color: rgb(228, 78, 78);
+    border: 3px solid red;
+    border-radius: 15px;
+    
+}
+.third h3{
+   
+    color: aliceblue;
+    text-align: center;
+    font-weight: bold;
+    width: 500px;
+    padding: 20px;
+    margin-left: -20px;
+}
+.third p{
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px;
+}
+.four{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(33, 33, 43);
+    
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.four h2{
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: bold;
+    width: 900px;
+    padding: 20px;
+}
+.four p{
+    color: aliceblue;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 20px;
+    width: 1000px;
+
+}
